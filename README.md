@@ -31,7 +31,7 @@ The dataset consists of 10,832 tracks and 15 potential predictor variables. This
 
 The full list of columns is as follows (note full descriptions of Spotify variables [here](https://developer.spotify.com/web-api/get-several-tracks/) and [here](https://developer.spotify.com/web-api/get-audio-features/)):
 
-* **Track**:** track name (Last.fm).
+* **Track:** track name (Last.fm).
 * **Artist:** artist name (Last.fm).
 * **Album:** album name (Last.fm).
 * **First_played:** datetime of first play (Last.fm).
